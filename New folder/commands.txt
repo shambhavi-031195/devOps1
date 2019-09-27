@@ -1,0 +1,32 @@
+history
+    1  git init
+    2   git config --global user.name "Shambhavi"
+    3  git config --global user.email
+    4  '
+]\
+    5  git config --global user.email "shambhavisingh31195@gmail.com"
+    6  git add index.html
+    7   git status
+    8  git add *.txt
+    9  git status
+   10  git add.
+   11  git add .
+   12  git status
+   13  git addtext1.txt
+   14  git add text1.txt
+   15  git diff
+   16  git diff
+   17  git commit
+   18  git commit -m"Any messgae can be given here"
+   19  git commit -m "ABC IS THE MESSAGE"
+   20  git log
+   21  touch .gitignore
+   22  git add .
+   23  git status
+   24  git add .
+   25  git status
+   26  git add .
+   27  git status
+   28  git add .
+   29  git status
+   30  history
